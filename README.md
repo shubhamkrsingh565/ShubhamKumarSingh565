@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumarsingh565&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumarsingh565" /> </p>
 
 - 🌱 I’m currently learning **Python for web scraping, and its basic libraries**
+- A computer science student, who learn new thing everyday and with the help of my skill I did some work on it like small project and interesting program too.
 
 - 📫 How to reach me **ramansinghlpu@gmail.com**
 
